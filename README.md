@@ -28,10 +28,10 @@
     <section id="about" class="py-5">
         <div class="container">
             <h2 class="text-center">Maqsad</h2>
-            <p class="lead text-center">"Yuqori sifatli web dasturlarni ishlab chiqishda yetakchi bo'ladigan jamoaning bir qismi bo'lish. Tajriba to'plash, dasturlashga oid xar qanday sohada o'zimni sinab ko'rish. O'z ishimni haqiqiy ustasiga aylanish"</p>
-            <h4>Ta'lim</h4>
+            <p class="lead text-center">📝"Yuqori sifatli web dasturlarni ishlab chiqishda yetakchi bo'ladigan jamoaning bir qismi bo'lish. Tajriba to'plash, dasturlashga oid xar qanday sohada o'zimni sinab ko'rish. O'z ishimni haqiqiy ustasiga aylanish"</p>
+            <h4>🏫Ta'lim</h4>
             <p>Najot ta’lim Pyton Django kursi bitiruvchisi | Online resurslar</p>
-            <h4>Ko'nikmalar</h4>
+            <h4>💼Ko'nikmalar</h4>
             <ul>
                 <li>Dasturlash tillari: JavaScripts, Python, Go</li>
                 <li>API texnologiyalar: Django Rest Framework</li>
@@ -45,11 +45,11 @@
     </section>
     <section id="projects" class="py-5 bg-light">
         <div class="container">
-            <h2 class="text-center">Loyihalar</h2>
+            <h2 class="text-center">📂Loyihalar</h2>
             <div class="card-deck">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">E-commerce Platforma</h5>
+                        <h5 class="card-title">🛒E-commerce Platforma</h5>
                         <p class="card-text">Maqsadi: Online do’kon yaratish</p>
                         <p class="card-text">Texnologiyalar: Django, Postgresql, HTML, CSS, JavaScripts</p>
                         <p class="card-text">Rol: Full Stack Developer</p>
@@ -58,7 +58,7 @@
                 </div>
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Kutubxona loyihasi</h5>
+                        <h5 class="card-title">📚Kutubxona loyihasi</h5>
                         <p class="card-text">Maqsadi: Kutubxonaga obuna bo’lishni hamda kitobni ijaraga olishni raqamlashtirish.</p>
                         <p class="card-text">Texnologiyalar: Django, Postgresql, HTML, CSS, JavaScripts</p>
                         <p class="card-text">Rol: Full Stack Developer</p>
@@ -67,7 +67,7 @@
                 </div>
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Blog site loyihasi</h5>
+                        <h5 class="card-title">💭Blog site loyihasi</h5>
                         <p class="card-text">Maqsadi: Foydalanuvchilar, ya’ni barcha, Blog va Turli xil yangiliklar, maqolalar, yarata oladi</p>
                         <p class="card-text">Texnologiyalar: Django, Postgresql, HTML, CSS, JavaScripts</p>
                         <p class="card-text">Rol: Full Stack Developer</p>
