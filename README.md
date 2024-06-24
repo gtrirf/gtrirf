@@ -8,7 +8,7 @@
 <body>
     <header class="bg-dark text-white text-center py-5">
         <h1>Islombek Ravshanov</h1>
-        <p class="lead">Full Stack Developer</p>
+        <p class="lead">Backend Developer</p>
     </header>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container">
