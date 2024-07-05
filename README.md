@@ -112,7 +112,7 @@
             <p class="text-center">Email: <a href="mailto:iravshanovpy@gmail.com">iravshanovpy@gmail.com</a></p>
             <p class="text-center">LinkedIn: <a href="https://www.linkedin.com/in/islombek-ravshanov-3042252b7/">Islombek Ravshanov</a></p>
             <p class="text-center">GitHub: <a href="https://github.com/gtrirf/">gtrirf</a></p>
-            <p class="text-center">GitHub: <a href="https://t.me/horizon_blogs">Personal Telegram channel</a></p>
+            <p class="text-center">Telegram: <a href="https://t.me/horizon_blogs">Personal Telegram channel</a></p>
         </div>
     </section>
     <footer class="bg-dark text-white text-center py-3">
