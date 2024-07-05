@@ -30,9 +30,9 @@
         <div class="container">
             <h2 class="text-center">📝Maqsad</h2>
             <p class="lead text-center">"Yuqori sifatli web dasturlarni ishlab chiqishda yetakchi bo'ladigan jamoaning bir qismi bo'lish. Tajriba to'plash, dasturlashga oid xar qanday sohada o'zimni sinab ko'rish. O'z ishimni haqiqiy ustasiga aylanish, doyimiy o'rganish"</p>
-            <h4>Ta'lim</h4>
+            <h4>🏫Ta'lim</h4>
             <p>Najot ta’lim Pyton Django kursi bitiruvchisi | Online resurslar</p>
-            <h4>Ko'nikmalar</h4>
+            <h4>💼Ko'nikmalar</h4>
             <ul>
                 <li>Dasturlash tillari: JavaScripts, Python, Go</li>
                 <li>API texnologiyalar: Django Rest Framework, FastApi</li>
