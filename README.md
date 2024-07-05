@@ -50,7 +50,7 @@
             <div class="card-deck">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Social-app loyhasi</h5>
+                        <h3 class="card-title">Social-app loyhasi</h3>
                         <p class="card-text"><strong>Maqsad:</strong> Instagramga o'xshash, post, comment, user-verify qismlariga ega loyiha yaratish</p>
                         <p class="card-text"><strong>Texnologiyalar:</strong> django, django rest-framework, simplejwt</p>
                         <p class="card-text"><strong>Rol:</strong> Backend developer</p>
@@ -59,7 +59,7 @@
                 </div>
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Chat-app loyhasi</h5>
+                        <h3 class="card-title">Chat-app loyhasi</h3>
                         <p class="card-text"><strong>Maqsad:</strong> real-time messenger yaratish</p>
                         <p class="card-text"><strong>Texnologiyalar:</strong> django, channels, websockets, Docker, html, css, javascirpts</p>
                         <p class="card-text"><strong>Rol:</strong> Full stack developer</p>
@@ -69,7 +69,7 @@
                 </div>
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">delivery-app loyhasi</h5>
+                        <h3 class="card-title">delivery-app loyhasi</h3>
                         <p class="card-text"><strong>Maqsad:</strong> yetkazib berish xizmati loyihasi backendini ishlan chiqish</p>
                         <p class="card-text"><strong>Texnologiyalar:</strong> django, django, rest-framework, authtoken, simplejwt</p>
                         <p class="card-text"><strong>Rol:</strong> backend developer</p>
@@ -78,7 +78,7 @@
                 </div>
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">E-commerce Platforma</h5>
+                        <h3 class="card-title">E-commerce Platforma</h3>
                         <p class="card-text"><strong>Maqsadi:</strong> Online do’kon yaratish</p>
                         <p class="card-text"><strong>Texnologiyalar:</strong> Django, Postgresql, html, css, javascripts</p>
                         <p class="card-text"><strong>Rol:</strong> Full Stack developer</p>
@@ -87,7 +87,7 @@
                 </div>
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Kutubxona loyihasi</h5>
+                        <h3 class="card-title">Kutubxona loyihasi</h3>
                         <p class="card-text"><strong>Maqsad:</strong> Kutubxonaga obuna bo’lishni hamda kitobni ijaraga olishni raqamlashtirish.</p>
                         <p class="card-text"><strong>Texnologiyalar:</strong> Django, Postgresql, html, css, javascripts</p>
                         <p class="card-text"><strong>Rol:</strong> Full stack developer</p>
@@ -96,7 +96,7 @@
                 </div>
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Blog-site loyihasi</h5>
+                        <h3 class="card-title">Blog-site loyihasi</h3>
                         <p class="card-text"><strong>Maqsad:</strong> Foydalanuvchilar, ya’ni barcha, Blog va Turli xil yangiliklar, maqolalar, yarata oladi</p>
                         <p class="card-text"><strong>Texnologiyalar:</strong> django, Posgresql, html, css, javascripts</p>
                         <p class="card-text"><strong>Rol:</strong> Full stack developer</p>
