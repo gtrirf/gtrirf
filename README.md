@@ -20,7 +20,6 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item"><a class="nav-link" href="#about">📝Maqsad</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#projects">📂Loyihalar</a></li>
                     <li class="nav-item"><a class="nav-link" href="#contact">📞Bog'lanish</a></li>
                 </ul>
             </div>
