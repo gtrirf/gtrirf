@@ -44,70 +44,7 @@
             </ul>
         </div>
     </section>
-    <section id="projects" class="py-5 bg-light">
-        <div class="container">
-            <h2 class="text-center">📂Loyihalar</h2>
-            <div class="card-deck">
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Social-app loyhasi</h3>
-                        <p class="card-text"><strong>Maqsad:</strong> Instagramga o'xshash, post, comment, user-verify qismlariga ega loyiha yaratish</p>
-                        <p class="card-text"><strong>Texnologiyalar:</strong> django, django rest-framework, simplejwt</p>
-                        <p class="card-text"><strong>Rol:</strong> Backend developer</p>
-                        <p class="card-text"><strong>Loyiha linki:</strong> <a href="https://github.com/gtrirf/userverify" class="btn btn-primary">GitHub</a></p>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Chat-app loyhasi</h3>
-                        <p class="card-text"><strong>Maqsad:</strong> real-time messenger yaratish</p>
-                        <p class="card-text"><strong>Texnologiyalar:</strong> django, channels, websockets, Docker, html, css, javascirpts</p>
-                        <p class="card-text"><strong>Rol:</strong> Full stack developer</p>
-                        <p class="card-text"><strong>Loyiha linki:</strong> <a href="https://chatapp-1-zfhh.onrender.com/" class="btn btn-primary">Loyihani ko'rish</a></p>
-                        <p class="card-text"><strong>GitHub:</strong> <a href="https://github.com/gtrirf/chatapp" class="btn btn-primary">GitHub</a></p>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">delivery-app loyhasi</h3>
-                        <p class="card-text"><strong>Maqsad:</strong> yetkazib berish xizmati loyihasi backendini ishlan chiqish</p>
-                        <p class="card-text"><strong>Texnologiyalar:</strong> django, django, rest-framework, authtoken, simplejwt</p>
-                        <p class="card-text"><strong>Rol:</strong> backend developer</p>
-                        <p class="card-text"><strong>Loyiha linki:</strong> <a href="https://github.com/gtrirf/delivery-app" class="btn btn-primary">GitHub</a></p>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">E-commerce Platforma</h3>
-                        <p class="card-text"><strong>Maqsadi:</strong> Online do’kon yaratish</p>
-                        <p class="card-text"><strong>Texnologiyalar:</strong> Django, Postgresql, html, css, javascripts</p>
-                        <p class="card-text"><strong>Rol:</strong> Full Stack developer</p>
-                        <p class="card-text"><strong>Loyiha linki:</strong> <a href="https://bazaaar-uz.onrender.com/" class="btn btn-primary">Loyihani ko'rish</a></p>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Kutubxona loyihasi</h3>
-                        <p class="card-text"><strong>Maqsad:</strong> Kutubxonaga obuna bo’lishni hamda kitobni ijaraga olishni raqamlashtirish.</p>
-                        <p class="card-text"><strong>Texnologiyalar:</strong> Django, Postgresql, html, css, javascripts</p>
-                        <p class="card-text"><strong>Rol:</strong> Full stack developer</p>
-                        <p class="card-text"><strong>Loyiha linki:</strong></p>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="card-body">
-                        <h3 class="card-title">Blog-site loyihasi</h3>
-                        <p class="card-text"><strong>Maqsad:</strong> Foydalanuvchilar, ya’ni barcha, Blog va Turli xil yangiliklar, maqolalar, yarata oladi</p>
-                        <p class="card-text"><strong>Texnologiyalar:</strong> django, Posgresql, html, css, javascripts</p>
-                        <p class="card-text"><strong>Rol:</strong> Full stack developer</p>
-                        <p class="card-text"><strong>Loyiha linki:</strong> <a href="https://blogsite-new-edition.onrender.com/" class="btn btn-primary">Loyihani ko'rish</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section id="contact" class="py-5">
-        <div class="container">
+    <section>
             <h2 class="text-center">📞Bog'lanish</h2>
             <p class="text-center">Email: <a href="mailto:iravshanovpy@gmail.com">iravshanovpy@gmail.com</a></p>
             <p class="text-center">LinkedIn: <a href="https://www.linkedin.com/in/islombek-ravshanov-3042252b7/">Islombek Ravshanov</a></p>
