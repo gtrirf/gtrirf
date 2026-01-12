@@ -47,4 +47,4 @@ Telegram: [**Personal Telegram channel**](https://t.me/horizon_blogs "https://t.
 
 ---
 
-© 2025 i37
+© 2026 i37
