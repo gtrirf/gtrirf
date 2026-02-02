@@ -27,8 +27,6 @@ Team leader of **Team i37**, focused on building practical and scalable IT produ
 
 **API Technologies:** Django REST Framework, FastAPI, Fiber
 
-**Web Technologies**: HTML, CSS
-
 **Databases**: SQLite, PostgreSQL, MySQL
 
 ---
