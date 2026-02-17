@@ -7,7 +7,7 @@
 ## About Me
 
 Software engineer and IT product manager at **Carville Central Asia**.   
-Team leader of **Team i37**, focused on building practical and scalable IT products.
+Team leader of **Team 37**, focused on building practical and scalable IT products.
 
 ---
 
