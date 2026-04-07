@@ -33,7 +33,7 @@ Team leader of **Team 37**, focused on building practical and scalable IT produc
 
 ## Contact
 
-Personal website: **[www.ehorizon.uz](http://www.ehorizon.uz)** 
+Personal website: **[www.ehorizon.uz](http://www.ehorizon.uz)** or **[i37.uz](https://i37.uz)**
 
 Email: **[iravshanovpy@gmail.com](mailto:iravshanovpy@gmail.com)** 
 
